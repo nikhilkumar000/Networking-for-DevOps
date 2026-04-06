@@ -300,6 +300,34 @@ Creates secure private networks over the internet.
 
 </details>
 
+<details> <summary>2️⃣1️⃣ SSL (Secure Sockets Layer)</summary>
+📌 Topics
+
+What is SSL ,
+How SSL works ,
+SSL certificates ,
+Certificate verification ,
+Session key creation
+
+🧠 Description
+
+Security protocol for encrypting communication between client and server, predecessor to TLS.
+
+</details>
+<details> <summary>2️⃣2️⃣ TLS (Transport Layer Security)</summary>
+📌 Topics
+
+What is TLS ,
+TLS working ,
+Key exchange ,
+Encryption methods ,
+TLS versions
+
+🧠 Description
+
+Modern security protocol providing encryption, integrity, and authentication for network communication.
+
+
 ### 🚀 Why This Repo?
 
 ✔️ Beginner → Advanced roadmap
@@ -315,3 +343,4 @@ If you find this helpful:
 - 👉 Star ⭐ the repo
 - 👉 Share with friends
 - 👉 Follow for updates
+
